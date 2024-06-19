@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "917605902011;GURU;6281255369012;Ash"
+const ownervb = process.env.OWNERS || "917034167123;GURU;917034167123;Ash"
 
 
 const ownerlist = ownervb.split(';');
@@ -69,17 +69,17 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = process.env.BOTNAME
+global.botname = process.env.𝐂𝚫𝚻 𝐒𝚸𝐘
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
+global.packname = '𝐂𝚫𝚻 𝐒𝚸𝐘'
+global.author = '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
-global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/m.hmmmmmd.json\n'
+global.dygp = 'https://chat.whatsapp.com/Gz866L8ZATyJvDx6YZHctQ'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT'
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
+global.fgyt = 'null'
+global.fgpyp = 'null'
+global.fglog = 'null'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
